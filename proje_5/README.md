@@ -34,8 +34,6 @@ python plaka_tanima.py
 ## Video Kaynağı
 
 Videonun boyutu çok büyük olduğundan dolayı GitHub’a yüklenmemiştir.  
-Onun yerine buradan izleyebilirsiniz:  
-[YouTube Linki](https://www.youtube.com/watch?v=wqctLW0Hb_0&list=PLcQZGj9lFR7y5WikozDSrdk6UCtAnM9mB&index=2)
 
 ## Kodun İşleyişi
 
